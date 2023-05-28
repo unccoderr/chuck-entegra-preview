@@ -1,0 +1,1 @@
+export { MAIN_PAGE_TEMPLATE } from './mainPageTemplate'
